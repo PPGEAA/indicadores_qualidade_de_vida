@@ -41,3 +41,8 @@ Considerando a primeira etapa realizada com a string de busca, os números de ar
 
 ![Distribuição de trabalhos por base de dados. IEEE (4,9%) e Periódico Capes (2,6%)](/images/bases_fonte.PNG)
 
+<p>
+Em relação a distribuição de artigos aceitos ou rejeitados no processo de revisão, em relação às bases de dados que foram advindos, há a descrição na Figura 3. Nota-se que a base da Scielo breve maior quantidade de artigos aceitos, pelo fato de ter mais artigos coletados sobre a temática da pesquisa. A base do IEEE não teve nenhum artigo aceito.
+</p>
+
+![Relação entre artigos encontrados e selecionados por base de dados](/images/papers_selected.PNG)

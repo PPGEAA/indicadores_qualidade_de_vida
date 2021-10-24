@@ -51,5 +51,4 @@ Em relação a distribuição de artigos aceitos ou rejeitados no processo de re
 Dentre os artigos selecionados, foram encontrados 30 índices utilizados nos últimos cinco anos para medir a qualidade de vida humana no mundo. Tais índices estão relacionados a 14 dimensões que agrupam um número específico de indicadores. Dentre elas, Saúde destaca-se em suas múltiplas vertentes, possuindo notável destaque ao abranger 49 indicadores
 </p>
 
-![Dimensões relacionadas aos índices e seus respectivos números de indicadores utilizados para medir a qualidade de vida nos últimos cinco anos](/images/dimensions.png | width=200x200)
-
+<img src="/images/dimensions.png" heigh="200"/>

@@ -29,3 +29,5 @@ A Amazônia como território que exerce centralidade em debates sobre o meio amb
 ### Método
 
 <p style="text-align: justify; text-justify: inter-word;">Para obtenção dos resultados foi realizado um mapeamento sistemático a partir da metodologia PICOC (população/pacientes; I: intervenção; C: comparação/controle; O: desfecho/outcome; C: context.). O fluxo geral com as etapas metodológicas é apresentado abaixo. </p>
+
+![PRISMA flow diagram demonstrating screening method for articles](url)

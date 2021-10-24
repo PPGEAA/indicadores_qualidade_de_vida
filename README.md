@@ -32,11 +32,12 @@ A Amazônia como território que exerce centralidade em debates sobre o meio amb
 
 ![PRISMA flow diagram demonstrating screening method for articles](/images/prisma.png)
 
+### Resultados
+
 <p>
 Considerando a primeira etapa realizada com a string de busca, os números de artigos selecionados por base de dados se apresentam da seguinte forma: 78 de 278 da SciELO; 22 de 152 da Springer Link; 16 de 41 da Google Schoolar; 7 de 13 da base de Periódicos CAPES; e dos 25 da IEEE Digital Library nenhum foi selecionado
 </p>
 
-### Resultados
 
 ![Distribuição de trabalhos por base de dados. IEEE (4,9%) e Periódico Capes (2,6%)](/images/bases_fonte.PNG)
 

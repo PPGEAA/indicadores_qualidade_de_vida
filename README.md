@@ -2,7 +2,7 @@
 
 ### Autores
 
-- Anabela da Silva Miranda, Universidade Federal do Pará (UFPA), Instituto de Ciências Biológicas (ICB), Belém, Pará. ORCID 0000-0002-5491-7258.
+> Anabela da Silva Miranda, Universidade Federal do Pará (UFPA), Instituto de Ciências Biológicas (ICB), Belém, Pará. ORCID 0000-0002-5491-7258.
 
 - Ana Paula Vilhena Farias, Universidade Federal do Pará (UFPA), Programa de Pós-Graduação em Estudos Antrópicos na Amazônia, Castanhal, Pará. ORCID 0000-0003-1822-2376.
 
